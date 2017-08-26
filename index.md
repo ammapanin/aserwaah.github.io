@@ -12,20 +12,20 @@ layout: page
 
 1. God insures those who pay: formal insurance and religious offering
 in Ghana. July 2017. <br>(with E. Auriol, J. Lassebie, E. Raiber,
-P. Seabright) </br>
+P. Seabright)
 
 1. Take your risk or take your time. July 2017. <br>(with M. Abdellaoui,
-E. Kemel, F. Vieider) </br>
+E. Kemel, F. Vieider)
 
 1. A method for the integrated measurement of risk and time
-preferences. June 2017. <br>(with M. Abdellaoui, E. Kemel, F. Vieider) </br>
+preferences. June 2017. <br>(with M. Abdellaoui, E. Kemel, F. Vieider) 
 
 # Work in progress
 
-* Risk, rationality, and economic well-being: evidence from Indian panel data. <br>(with S. Choi and F. Vieider)</br>
+* Risk, rationality, and economic well-being: evidence from Indian panel data. <br>(with S. Choi and F. Vieider)
 
 * A comparison of risk elicitation mechanisms in the field. <br>(with
-F. Vieider)</br>
+F. Vieider)
 
 * Religion as insurance
 
