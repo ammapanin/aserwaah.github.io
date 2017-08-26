@@ -20,7 +20,7 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAApsAAAAJGU
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: amma.panin@nuffield.ox.ac.uk
   facebook:
   flickr:
   github: 
@@ -77,3 +77,6 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+
+

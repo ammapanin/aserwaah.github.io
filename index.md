@@ -6,26 +6,32 @@ layout: page
 
 **Current position**  &nbsp;&nbsp;  CESS/FLAME Postdoctoral Research Officer<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Centre for Experimental Social Sciences](https://cess-nuffield.nuff.ox.ac.uk/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuffield College, University of Oxford
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuffield
+College, University of Oxford<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% include svg-icons.html %}
 
 # Working papers
 
-1. God insures those who pay: formal insurance and religious offering
-in Ghana. July 2017. <br>(with E. Auriol, J. Lassebie, E. Raiber,
-P. Seabright)
 
-1. Take your risk or take your time. July 2017. <br>(with M. Abdellaoui,
-E. Kemel, F. Vieider)
+1. God insures those who pay: formal insurance and religious offering
+in Ghana. July 2017. 
+######(with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/god_insures.pdf)*
+
+1. Take your risk or take your time. July 2017.
+######(with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*paper available on request*
 
 1. A method for the integrated measurement of risk and time
-preferences. June 2017. <br>(with M. Abdellaoui, E. Kemel, F. Vieider) 
+preferences. June 2017.
+###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*paper available on request*
 
 # Work in progress
 
-* Risk, rationality, and economic well-being: evidence from Indian panel data. <br>(with S. Choi and F. Vieider)
+* Risk, rationality, and economic well-being: evidence from Indian
+panel data.
+######(with S. Choi and F. Vieider)
 
-* A comparison of risk elicitation mechanisms in the field. <br>(with
-F. Vieider)
+* A comparison of risk elicitation mechanisms in the field.
+######(with F. Vieider)
 
 * Religion as insurance
 
