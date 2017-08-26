@@ -14,10 +14,10 @@ College, University of Oxford<br>
 
 
 1. God insures those who pay: formal insurance and religious offering
-in Ghana. July 2017. 
+in Ghana. July 2017.   
 ######(with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/god_insures.pdf)*
 
-1. Take your risk or take your time. July 2017.
+1. Take your risk or take your time. July 2017.  
 ######(with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*paper available on request*
 
 1. A method for the integrated measurement of risk and time
@@ -27,10 +27,10 @@ preferences. June 2017.
 # Work in progress
 
 * Risk, rationality, and economic well-being: evidence from Indian
-panel data.
+panel data.  
 ######(with S. Choi and F. Vieider)
 
-* A comparison of risk elicitation mechanisms in the field.
+* A comparison of risk elicitation mechanisms in the field.  
 ######(with F. Vieider)
 
 * Religion as insurance
