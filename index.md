@@ -2,8 +2,6 @@
 layout: page
 ---
 
-
-
 **Current position**  &nbsp;&nbsp;  CESS/FLAME Postdoctoral Research Officer<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Centre for Experimental Social Sciences](https://cess-nuffield.nuff.ox.ac.uk/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuffield
@@ -14,15 +12,24 @@ College, University of Oxford<br>
 
 
 1. God insures those who pay: formal insurance and religious offering
-in Ghana. July 2017.
+in Ghana. May 2017.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*
 
-1. Take your risk or take your time. July 2017.
+1. Take your risk or take your time. February 2018.
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_time_risk.pdf)*
 
 1. A method for the integrated measurement of risk and time
 preferences. June 2017.
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*paper available on request*
+
+
+1. Time for Tea Now. Discounting for Money and Consumption without the Utility Confound. May 2018.
+###### (with M. Abdellaoui, E. Kemel, F. Vieider)
+&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
+
+
+
+
 
 # Work in progress
 
