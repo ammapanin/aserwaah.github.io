@@ -15,10 +15,10 @@ College, University of Oxford<br>
 
 1. God insures those who pay: formal insurance and religious offering
 in Ghana. July 2017.
-###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/god_insures.pdf)*
+###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*
 
 1. Take your risk or take your time. July 2017.
-###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*paper available on request*
+###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_time_risk.pdf)*
 
 1. A method for the integrated measurement of risk and time
 preferences. June 2017.
