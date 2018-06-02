@@ -15,7 +15,7 @@ College, University of Oxford<br>
 in Ghana. May 2017.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*
 
-1. Take your risk or take your time. February 2018.
+1. Take your time or take your chance: Time discounting as a distorted probability. February 2018.
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_time_risk.pdf)*
 
 1. A method for the integrated measurement of risk and time
