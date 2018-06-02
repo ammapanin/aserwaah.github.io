@@ -39,7 +39,8 @@ panel data.
 * A comparison of risk elicitation mechanisms in the field.
 ###### (with F. Vieider)
 
-* Religion as insurance
+* Platform competition between religious organisations. Evidence from
+  Pentecostal churches in Ghana.
 
 
 
