@@ -24,8 +24,7 @@ preferences. June 2017.
 
 
 1. Time for Tea Now. Discounting for Money and Consumption without the Utility Confound. May 2018.
-###### (with M. Abdellaoui, E. Kemel, F. Vieider)
-&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
+###### (with M. Abdellaoui, E. Kemel, F. Vieider)&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
 
 
 
