@@ -2,11 +2,14 @@
 layout: page
 ---
 
-**Current position**  &nbsp;&nbsp;  CESS/FLAME Postdoctoral Research Officer<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Centre for Experimental Social Sciences](https://cess-nuffield.nuff.ox.ac.uk/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuffield
-College, University of Oxford<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;amma.panin@nuffield.ox.ac.uk
+I am an economist based at the Nuffield College [Centre for
+Experimental Social Sciences](https://cess-nuffield.nuff.ox.ac.uk/),
+where I am a Postdoctoral Research Officer and a Fellow of Nuffield
+College. My work focuses on exploring how risk and uncertainty shape
+economic decision making. At the moment I am working on empirical and
+theoretical papers looking at how religious instituions in developing
+countries act as insurers. Insurance may be one amongst many other
+financial roles and religious organisations may act in part as informal substitutes for formal institutions.
 
 # Working papers
 
