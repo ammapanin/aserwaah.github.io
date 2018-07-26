@@ -7,9 +7,13 @@ Experimental Social Sciences](https://cess-nuffield.nuff.ox.ac.uk/),
 where I am a Postdoctoral Research Officer and a Fellow of Nuffield
 College. My work focuses on exploring how risk and uncertainty shape
 economic decision making. At the moment I am working on empirical and
-theoretical papers looking at how religious instituions in developing
-countries act as insurers. Insurance may be one amongst many other
-financial roles and religious organisations may act in part as informal substitutes for formal institutions.
+theoretical papers looking at how religious institutions in developing
+countries act as insurers. Insurance may be one amongst many financial
+roles and religious organisations may act in part as informal
+substitutes for formal institutions. I have approached many questions
+through a variety of lab, field, and lab-type field experiments in
+what some coauthors insist on calling "exotic places". Please click
+[here for my CV](assets/Panin_CV_July18.pdf). 
 
 # Working papers
 
