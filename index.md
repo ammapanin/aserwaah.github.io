@@ -12,7 +12,7 @@ College, University of Oxford<br>
 
 
 1. God insures those who pay: formal insurance and religious offering
-in Ghana. May 2017.
+in Ghana. May 2018.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*
 
 1. Take your time or take your chance: Time discounting as a distorted probability. February 2018.
