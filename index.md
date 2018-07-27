@@ -5,7 +5,7 @@ layout: page
 I am an economist based at the Nuffield College [Centre for
 Experimental Social Sciences](https://cess-nuffield.nuff.ox.ac.uk/),
 where I am a Postdoctoral Research Officer and a Fellow of Nuffield
-College. My work focuses on exploring how risk and uncertainty shape
+College. My work explores how risk and uncertainty shape
 economic decision making. At the moment I am particularly excited
 about a couple of empirical and theoretical papers looking at how religious institutions in developing
 countries act as insurers. Insurance may be one amongst many financial
