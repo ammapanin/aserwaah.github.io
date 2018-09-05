@@ -2,16 +2,11 @@
 layout: page
 ---
 
-<!-- <div class='pull-left' markdown="1"> -->
-
-<!-- ![This is an image](assets/ammapanin.jpg) -->
-
-<!-- </div> -->
 
 <img align="left" width="240" height="240" src="assets/ammapanin.jpg" style="margin: 0px 20px">
 I am an economist based at the Nuffield College
 [Centre for Experimental Social
-Sciences](https://cess-nuffield.nuff.ox.ac.uk/). I am an economist at the Nuffield College Centre for Experimental Social Sciences. I study how risk and uncertainty shape economic decision making. Some current work looks at how religious institutions in developing countries act as insurers. I have approached many questions through a variety of lab, field, and lab-type field experiments in what some coauthors insist on calling “exotic places”. Please click here for my CV. Please click [here for my CV](assets/Panin_CV_Aug18.pdf).
+Sciences](https://cess-nuffield.nuff.ox.ac.uk/). I study how risk and uncertainty shape economic decision making. Some current work looks at how religious institutions in developing countries act as insurers. I have approached many questions through a variety of lab, field, and lab-type field experiments in what some coauthors insist on calling “exotic places”. Please click here for my CV. Please click [here for my CV](assets/Panin_CV_Aug18.pdf).
 
 <br><br>
 # Working papers
