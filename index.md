@@ -22,9 +22,9 @@ in Ghana. May 2018.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*&nbsp;
 ###### revision requested at **The Quarterly Journal of Economics**
 <br>
-1. Measuring Time and Risk Preferences in an Integrated Framework. July 2017.
+1. Measuring Time and Risk Preferences in an Integrated Framework. September 2018.
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_integrated_time.pdf)*
-###### revision requested at **Games and Economic Behaviour** &nbsp;
+###### revision submitted to **Games and Economic Behaviour** &nbsp;
 <br>
 1. Time for Tea Now. Discounting for Money and Consumption without the Utility Confound. May 2018.
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
