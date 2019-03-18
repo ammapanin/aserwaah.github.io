@@ -4,27 +4,27 @@ layout: page
 
 
 <img align="left" width="240" height="240" src="assets/ammapanin.jpg" style="margin: 0px 20px">
-I am an economist based at the Nuffield College
-[Centre for Experimental Social
-Sciences](https://cess-nuffield.nuff.ox.ac.uk/). I study how risk and
+I am an economist working in the World Bank office of the Chief
+Economist for the Africa region. I study how risk and
 uncertainty shape economic decision making. Some current work looks at
 how religious institutions in developing countries act as insurers. I
 have approached many questions through a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling
-“exotic places”. Please click [here for my CV](assets/Panin_CV_Aug18.pdf).
+“exotic places”. Please click [here for my CV](assets/Panin_CV_Mar19.pdf).
 
 <br><br>
 # Working papers
 
+1. Measuring Time and Risk Preferences in an Integrated
+   Framework. March 2019.
+###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_integrated_time.pdf)*
+###### forthcoming in **Games and Economic Behaviour** &nbsp;
+<br>
 
 1. God insures those who pay: formal insurance and religious offering
 in Ghana. May 2018.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*&nbsp;
 ###### revision requested at **The Quarterly Journal of Economics**
-<br>
-1. Measuring Time and Risk Preferences in an Integrated Framework. September 2018.
-###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_integrated_time.pdf)*
-###### revision submitted to **Games and Economic Behaviour** &nbsp;
 <br>
 1. Time for Tea Now. Discounting for Money and Consumption without the Utility Confound. May 2018.
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
