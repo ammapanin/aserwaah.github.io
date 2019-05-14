@@ -18,8 +18,8 @@ lab-type field experiments in what some coauthors insist on calling
 
 1. Measuring Time and Risk Preferences in an Integrated
    Framework.
-###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](https://authors.elsevier.com/a/1YxxZ3CcBwPV0B)*
-###### May 2019**Games and Economic Behaviour** &nbsp;
+###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
+###### [*May 2019, **Games and Economic Behaviour** *](https://authors.elsevier.com/a/1YxxZ3CcBwPV0B)** &nbsp;
 <br>
 
 # Working papers
