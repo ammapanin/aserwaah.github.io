@@ -20,7 +20,7 @@ lab-type field experiments in what some coauthors insist on calling
    Framework.
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
 ###### May 2019, **Games and Economic Behaviour***
-   [pdf](assets/Abdellaoui_et_al_integrated_time.pdf)*  *[code](https://osf.io/9hfcg/)*&nbsp;
+   [pdf](assets/Abdellaoui_et_al_integrated_time.pdf)* *[code](https://osf.io/9hfcg/)*&nbsp;
 
 <br>
 
