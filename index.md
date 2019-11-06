@@ -13,7 +13,7 @@ lab-type field experiments in what some coauthors insist on calling
 “exotic places”. Please click [*here for my CV*](assets/Panin_CV_Sep19.pdf).
 
 If you are a Behavioral or Experimental Economist looking for
-conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I maintain a spreadhseet [here](https://tinyurl.com/behavioral-experimental).
+conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I maintain a spreadsheet [here](https://tinyurl.com/behavioral-experimental).
 <br><br>
 
 
