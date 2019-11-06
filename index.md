@@ -12,7 +12,6 @@ have approached many questions through a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling
 “exotic places”. Please click [*here for my CV*](assets/Panin_CV_Sep19.pdf).
 
-<br>
 If you are a Behavioral or Experimental Economist looking for
 conferences, Marco Schwarz and I maintain a spreadhseet [here](https://tinyurl.com/behavioral-experimental)
 <br><br>
