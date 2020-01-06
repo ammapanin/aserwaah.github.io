@@ -10,7 +10,7 @@ uncertainty shape economic decision making. Some current work looks at
 how religious institutions in developing countries act as insurers. I
 have approached many questions through a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling
-“exotic places”. Please click [*here for my CV*](assets/Panin_CV_Sep19.pdf).
+“exotic places”. Please click [*here for my CV*](assets/Panin_CV_Nov19.pdf).
 
 If you are a Behavioral or Experimental Economist looking for
 conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I maintain a spreadsheet [here](https://tinyurl.com/behavioral-experimental).
@@ -28,7 +28,7 @@ conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I
 
 # Working papers
 1. God insures those who pay: formal insurance and religious offering
-in Ghana. May 2018.
+in Ghana. December 2019.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*&nbsp;
 ###### revision requested at **The Quarterly Journal of Economics**
 <br>
