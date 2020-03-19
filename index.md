@@ -30,7 +30,7 @@ conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I
 1. God insures those who pay: formal insurance and religious offering
 in Ghana. December 2019.
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*&nbsp;
-###### revision requested at **The Quarterly Journal of Economics**
+###### conditionally accepted at **The Quarterly Journal of Economics**
 <br>
 1. Time for Tea Now. Discounting for Money and Consumption without the Utility Confound. May 2018.
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
