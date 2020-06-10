@@ -19,19 +19,20 @@ conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I
 
 # Publications
 
+1. God insures those who pay: formal insurance and religious offering
+in Ghana (2020).
+###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*&nbsp;
+###### forthcoming **The Quarterly Journal of Economics**
+
+<br>
+
 1. Measuring Time and Risk Preferences in an Integrated
-   Framework.
+   Framework (2019).
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
 ###### May 2019, **Games and Economic Behaviour** *[\[pdf\]](assets/Abdellaoui_et_al_integrated_time.pdf)* *[\[code and data\]](https://osf.io/9hfcg/)*&nbsp;
 
-<br>
 
 # Working papers
-1. God insures those who pay: formal insurance and religious offering
-in Ghana. December 2019.
-###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;*[pdf](assets/Auriol_et_al_God_insures.pdf)*&nbsp;
-###### conditionally accepted at **The Quarterly Journal of Economics**
-<br>
 1. Time for Tea Now. Discounting for Money and Consumption without the Utility Confound. May 2018.
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
 <br>
