@@ -20,9 +20,8 @@ conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I
 # Publications
 
 1. **God insures those who pay: formal insurance and religious offering
-in Ghana (2020).** *forthcoming Quarterly Journal of Economics*
-###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;
-###### *[\[pdf\]](assets/Auriol_et_al_God_insures.pdf)*
+in Ghana (2020).** *forthcoming Quarterly Journal of Economics* (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;
+#### *[\[pdf\]](assets/Auriol_et_al_God_insures.pdf)*
 <br>
 1. **Measuring Time and Risk Preferences in an Integrated
    Framework (2019).** *Games and Economic Behaviour*
