@@ -10,7 +10,7 @@ uncertainty shape economic decision making. Some current work looks at
 how religious institutions in developing countries act as insurers. I
 have approached many questions through a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling
-“exotic places”. Please click [*here for my CV*](assets/Panin_CV_Nov19.pdf).
+“exotic places”. Please click [*here for my CV*](assets/Panin_CV_Jun20.pdf).
 
 If you are a Behavioral or Experimental Economist looking for
 conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I maintain a spreadsheet [here](https://tinyurl.com/behavioral-experimental).
