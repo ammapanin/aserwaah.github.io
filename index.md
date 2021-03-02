@@ -3,14 +3,24 @@ layout: page
 ---
 
 
-<img align="left" width="240" height="240" src="assets/ammapanin.jpg" style="margin: 0px 20px">
-I am an economist working in the World Bank Office of the Chief
-Economist for the Africa region. I study how risk and
-uncertainty shape economic decision making. Some current work looks at
-how religious institutions in developing countries act as insurers. I
-have approached many questions through a variety of lab, field, and
-lab-type field experiments in what some coauthors insist on calling
-“exotic places”. Please click [*here for my CV*](assets/Panin_CV_Jun20.pdf).
+<img align="left" width="240" height="240" src="assets/ammapanin.jpg"
+style="margin: 0px 20px">
+
+I am an assistant professor of economics at the University of
+Louvain. I study how risk and uncertainty shape economic decision
+making. I have a particular interest in understanding how contemporary
+religious institutions evolve to provide substitutes to insurance and
+other services that might otherwise be provided by formal markets.
+
+I apply insights from behavioural economics to develop descriptive
+models of decision making under risk. Two important areas of insight
+include motivated beliefs and components of prospect theory--such as
+probability weighting and loss aversion. A strand of my research
+focuses on how such preferences can be measured experimentally. I have
+experience running a variety of lab, field, and
+lab-type field experiments in what some coauthors insist on calling “exotic places”.
+
+Please click [*here for my CV*](assets/Panin_CV_Jan21.pdf).
 
 If you are a Behavioral or Experimental Economist looking for
 conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I maintain a spreadsheet [here](https://tinyurl.com/behavioral-experimental).
@@ -20,7 +30,7 @@ conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I
 # Publications
 
 1. God insures those who pay: formal insurance and religious offering
-in Ghana (2020). *forthcoming Quarterly Journal of Economics*
+in Ghana (2020). *Quarterly Journal of Economics*
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;
 ###### *[\[pdf\]](assets/Auriol_et_al_God_insures.pdf)*
 <br>
