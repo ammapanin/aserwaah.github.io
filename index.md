@@ -43,11 +43,11 @@ in Ghana (2020). *Quarterly Journal of Economics*
 # Working papers
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2018).
-###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;*[pdf](assets/Abdellaoui_et_al_time_for_tea.pdf)*
+###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
 <br>
 1. Take your time or take your chance: Time discounting as a distorted
    probability (2018).
-###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;*[pdf](assets/Abdellaoui_et_al_time_risk.pdf)*
+###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
 
 
 
