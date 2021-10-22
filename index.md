@@ -20,6 +20,7 @@ focuses on how such preferences can be measured experimentally. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
+
 Please click [*here for my CV*](assets/Panin_CV_Oct21.pdf).
 
 If you are a Behavioral or Experimental Economist looking for
@@ -35,6 +36,7 @@ and Politics*
 ###### (with E. Hermanⓡ, E Wellman, G Blair, L Pruett, K Opalo, H
 Alarian, A Grossman, Y Tan, A Dyzenhaus, and N Owsley.)
 <br>
+
 1. God insures those who pay: formal insurance and religious offering
 in Ghana (2020). *Quarterly Journal of Economics*
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;
@@ -49,12 +51,12 @@ in Ghana (2020). *Quarterly Journal of Economics*
 # Working papers
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2021).
+
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
 <br>
 1. Take your time or take your chance: Time discounting as a distorted
    probability (2018).
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
-
 
 # Other writing
 1. Four reasons why analysis of economic policy and religion go
@@ -62,7 +64,6 @@ in Ghana (2020). *Quarterly Journal of Economics*
    <br>
 1. Economics Experiments in Africa: How Many and by Whom?
 CODESRIA Bulletin No. 1, 2020 [\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)
-
 
 
 # Work in progress
