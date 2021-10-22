@@ -2,7 +2,6 @@
 layout: page
 ---
 
-
 <img align="left" width="240" height="240" src="assets/ammapanin.jpg"
 style="margin: 0px 20px">
 
@@ -10,13 +9,7 @@ I am an assistant professor of economics at the University of
 Louvain. I study how risk and uncertainty shape economic decision
 making. I have a particular interest in understanding how contemporary
 religious institutions evolve to provide substitutes to insurance and
-other services that might otherwise be provided by formal markets.
-
-I apply insights from behavioural economics to develop descriptive
-models of decision making under risk. Two important areas of insight
-include motivated beliefs and components of prospect theory--such as
-probability weighting and loss aversion. A strand of my research
-focuses on how such preferences can be measured experimentally. I have
+other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
@@ -48,7 +41,8 @@ in Ghana (2020). *Quarterly Journal of Economics*
 
 # Other writing
 1. Four reasons why analysis of economic policy and religion go
-   hand-in-hand in sub-Saharan Africa. PEGNet Policy Brief, 2021. ######[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)
+   hand-in-hand in sub-Saharan Africa. PEGNet Policy Brief, 2021.
+   ######[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)*&nbsp;
    <br>
 1. Economics Experiments in Africa: How Many and by Whom?
 CODESRIA Bulletin No. 1, 2020
@@ -58,14 +52,11 @@ CODESRIA Bulletin No. 1, 2020
 # Working papers
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2021).
-
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
 <br>
 1. Take your time or take your chance: Time discounting as a distorted
    probability (2018).
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
-
-
 
 
 # Work in progress
