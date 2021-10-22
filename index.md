@@ -6,18 +6,14 @@ layout: page
 style="margin: 0px 20px">
 
 I am an assistant professor of economics at the University of
-Louvain. I study how risk and uncertainty shape economic decision
+Louvain and I study how risk and uncertainty shape economic decision
 making. I have a particular interest in understanding how contemporary
 religious institutions evolve to provide substitutes to insurance and
 other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
-
 Please click [*here for my CV*](assets/Panin_CV_Oct21.pdf).
-
-If you are a Behavioral or Experimental Economist looking for
-conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I maintain a spreadsheet [here](https://tinyurl.com/behavioral-experimental).
 <br><br>
 
 
@@ -41,12 +37,12 @@ in Ghana (2020). *Quarterly Journal of Economics*
 
 # Other writing
 1. Four reasons why analysis of economic policy and religion go
-   hand-in-hand in sub-Saharan Africa. PEGNet Policy Brief, 2021.
-   ######[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)*&nbsp;
+   hand-in-hand in sub-Saharan Africa. *PEGNet Policy Brief, 2021.*
+###### *[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)*&nbsp;
    <br>
 1. Economics Experiments in Africa: How Many and by Whom?
-CODESRIA Bulletin No. 1, 2020
-######[\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)
+*CODESRIA Bulletin No. 1, 2020*
+###### *[\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)*
 
 
 # Working papers
