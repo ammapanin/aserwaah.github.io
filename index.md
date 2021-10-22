@@ -28,24 +28,31 @@ conferences, [Marco Schwarz](https://sites.google.com/site/marcoaschwarz/) and I
 <br><br>
 
 
-# Publications
+# Journal Publications
 
 1. Field Experiments in the Global South: Assessing Risks, Localizing
 Benefits, and Addressing Positionality (2021). *PS: Political Science
 and Politics*
-###### (with E. Hermanⓡ, E Wellman, G Blair, L Pruett, K Opalo, H
-Alarian, A Grossman, Y Tan, A Dyzenhaus, and N Owsley.)
+###### (with E. Hermanⓡ, E. Wellman, G. Blair, L. Pruett, K. Opalo, H. Alarian, A. Grossman, Y. Tan, A. Dyzenhaus, and N. Owsley.)
 <br>
 
 1. God insures those who pay: formal insurance and religious offering
 in Ghana (2020). *Quarterly Journal of Economics*
 ###### (with E. Auriol, J. Lassebie, E. Raiber, P. Seabright) &nbsp;
-###### *[\[pdf\]](assets/Auriol_et_al_God_insures.pdf)*
+###### *[\[pdf\]](assets/Auriol_et_al_God_insures.pdf)* *[\[code and data\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KVFRFO)*&nbsp;
 <br>
 1. Measuring Time and Risk Preferences in an Integrated
    Framework (2019). *Games and Economic Behaviour*
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
 ###### *[\[pdf\]](assets/Abdellaoui_et_al_integrated_time.pdf)* *[\[code and data\]](https://osf.io/9hfcg/)*&nbsp;
+
+# Other writing
+1. Four reasons why analysis of economic policy and religion go
+   hand-in-hand in sub-Saharan Africa. PEGNet Policy Brief, 2021. ######[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)
+   <br>
+1. Economics Experiments in Africa: How Many and by Whom?
+CODESRIA Bulletin No. 1, 2020
+######[\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)
 
 
 # Working papers
@@ -58,12 +65,7 @@ in Ghana (2020). *Quarterly Journal of Economics*
    probability (2018).
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
 
-# Other writing
-1. Four reasons why analysis of economic policy and religion go
-   hand-in-hand in sub-Saharan Africa. PEGNet Policy Brief, 2021. [\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)
-   <br>
-1. Economics Experiments in Africa: How Many and by Whom?
-CODESRIA Bulletin No. 1, 2020 [\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)
+
 
 
 # Work in progress
