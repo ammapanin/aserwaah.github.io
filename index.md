@@ -13,7 +13,7 @@ other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
-Please click [*here for my CV*](assets/Panin_CV_Oct21.pdf).
+Please click [*here for my CV*](assets/Panin_CV_Feb22.pdf).
 <br><br>
 
 
@@ -35,21 +35,10 @@ in Ghana (2020). *Quarterly Journal of Economics*
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
 ###### *[\[pdf\]](assets/Abdellaoui_et_al_integrated_time.pdf)* *[\[code and data\]](https://osf.io/9hfcg/)*&nbsp;
 
-# Other writing
-1. Four reasons why analysis of economic policy and religion go
-   hand-in-hand in sub-Saharan Africa. *PEGNet Policy Brief, 2021.*
-###### *[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)*&nbsp;
-   <br>
-1. Economics Experiments in Africa: How Many and by Whom?
-*CODESRIA Bulletin No. 1, 2020*
-###### *[\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)*
-
-
 # Working papers
-1. The Globalizability of Temporal Discounting. *Revision requested by
+1. The Globalizability of Temporal Discounting (2021).  *Revision requested by
     Nature Human Behavior*
-###### (second author in large collaboration with K Ruggeri,..., and E
-Garcia-Garzon)
+###### (second author in large collaboration with K Ruggeri,..., and E Garcia-Garzon)
 <br>
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2021).
@@ -58,6 +47,16 @@ Garcia-Garzon)
 1. Take your time or take your chance: Time discounting as a distorted
    probability (2018).
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider) &nbsp;
+
+
+# Other writing
+1. Four reasons why analysis of economic policy and religion go
+   hand-in-hand in sub-Saharan Africa. *PEGNet Policy Brief, 2021.*
+###### *[\[link\]](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/)*&nbsp;
+   <br>
+1. Economics Experiments in Africa: How Many and by Whom?
+*CODESRIA Bulletin No. 1, 2020*
+###### *[\[link\]](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)*
 
 
 # Work in progress
