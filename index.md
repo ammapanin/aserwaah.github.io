@@ -46,6 +46,11 @@ in Ghana (2020). *Quarterly Journal of Economics*
 
 
 # Working papers
+1. The Globalizability of Temporal Discounting. *Revision requested by
+    Nature Human Behavior*
+###### (second author in large collaboration with K Ruggeri,..., and E
+Garcia-Garzon)
+<br>
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2021).
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
