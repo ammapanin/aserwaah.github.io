@@ -18,6 +18,13 @@ Please click [*here for my CV*](assets/Panin_CV_Feb22.pdf).
 
 
 # Journal Publications
+1. The Globalizability of Temporal Discounting (2022).  *Nature Human Behavior*
+###### (second author in large collaboration with K Ruggeri,..., and E
+Garcia-Garzon)
+###### *[\[pdf\]](https://www.nature.com/articles/s41562-022-01392-w)*
+*[\[research briefing\]](https://www.nature.com/articles/s41562-022-01393-9.epdf?sharing_token=D0Z8vS3wA2m-qeydtwAZ0tRgN0jAjWel9jnR3ZoTv0NLyEanHN6E1ZrNdohFiKFmJqVznOHhW1ARiT5RlmigPZrcqCnKpOhuDEu2aASE-44cxO3mhPKD2otYo6xayixkF-gtqMy_5Ds1ztQlcmqcTzI6fVetTlGgbVLhpekAg_4%3D)*
+ *[\[code and data\]](https://osf.io/njd62)*&nbsp;
+<br>
 
 1. Field Experiments in the Global South: Assessing Risks, Localizing
 Benefits, and Addressing Positionality (2021). *PS: Political Science
@@ -36,10 +43,6 @@ in Ghana (2020). *Quarterly Journal of Economics*
 ###### *[\[pdf\]](assets/Abdellaoui_et_al_integrated_time.pdf)* *[\[code and data\]](https://osf.io/9hfcg/)*&nbsp;
 
 # Working papers
-1. The Globalizability of Temporal Discounting (2021).  *Revision requested by
-    Nature Human Behavior*
-###### (second author in large collaboration with K Ruggeri,..., and E Garcia-Garzon)
-<br>
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2021).
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
