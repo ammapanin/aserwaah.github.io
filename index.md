@@ -21,9 +21,7 @@ Please click [*here for my CV*](assets/Panin_CV_Feb22.pdf).
 1. The Globalizability of Temporal Discounting (2022).  *Nature Human Behavior*
 ###### (second author in large collaboration with K Ruggeri,..., and E
 Garcia-Garzon)
-###### *[\[pdf\]](https://www.nature.com/articles/s41562-022-01392-w)*
-*[\[research briefing\]](https://www.nature.com/articles/s41562-022-01393-9.epdf?sharing_token=D0Z8vS3wA2m-qeydtwAZ0tRgN0jAjWel9jnR3ZoTv0NLyEanHN6E1ZrNdohFiKFmJqVznOHhW1ARiT5RlmigPZrcqCnKpOhuDEu2aASE-44cxO3mhPKD2otYo6xayixkF-gtqMy_5Ds1ztQlcmqcTzI6fVetTlGgbVLhpekAg_4%3D)*
- *[\[code and data\]](https://osf.io/njd62)*&nbsp;
+###### *[\[pdf\]](https://www.nature.com/articles/s41562-022-01392-w)**[\[research briefing\]](https://www.nature.com/articles/s41562-022-01393-9.epdf?sharing_token=D0Z8vS3wA2m-qeydtwAZ0tRgN0jAjWel9jnR3ZoTv0NLyEanHN6E1ZrNdohFiKFmJqVznOHhW1ARiT5RlmigPZrcqCnKpOhuDEu2aASE-44cxO3mhPKD2otYo6xayixkF-gtqMy_5Ds1ztQlcmqcTzI6fVetTlGgbVLhpekAg_4%3D)**[\[code and data\]](https://osf.io/njd62)*&nbsp;
 <br>
 
 1. Field Experiments in the Global South: Assessing Risks, Localizing
