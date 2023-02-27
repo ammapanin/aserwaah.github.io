@@ -13,7 +13,7 @@ other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
-Please click [*here for my CV*](assets/Panin_CV_Feb22.pdf).
+Please click [*here for my CV*](assets/Panin_CV_Feb23.pdf).
 <br><br>
 
 
@@ -42,8 +42,9 @@ in Ghana (2020). *Quarterly Journal of Economics*
 
 # Working papers
 1. Time for Tea Now. Discounting for Money and Consumption without the
-   Utility Confound (2021).
+   Utility Confound (2023).
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
+*[\[pdf\]](assets/Abdellaoui et al 2023 time for tea.pdf)* *[\[code and data\]](https://osf.io/ya7ke/?view_only=55332e1fbee04cbf93b29aee2b4cead8)*&nbsp;
 <br>
 1. Take your time or take your chance: Time discounting as a distorted
    probability (2018).
@@ -62,12 +63,11 @@ in Ghana (2020). *Quarterly Journal of Economics*
 
 # Work in progress
 
-* Risk, rationality, and economic well-being: evidence from Indian
-panel data.
-###### (with S. Choi and F. Vieider)
-
-* A comparison of risk elicitation mechanisms in the field.
-###### (with F. Vieider)
+* Cognitive consequences of insecure national belonging
+###### (with Ritwik Banerjee, Joseph Gomes, and Emmy Lindstam)
 
 * Platform competition between religious organisations. Evidence from
   Pentecostal churches in Ghana.
+###### (with Emmanuelle Auriol, Eva Raiber and Paul Seabright)
+
+* Using religion to ensure mental health in Ghana
