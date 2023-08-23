@@ -42,7 +42,8 @@ in Ghana (2020). *Quarterly Journal of Economics*
 
 # Working papers
 1. Time for Tea Now. Discounting for Money and Consumption without the
-   Utility Confound (2023).
+   Utility Confound (2023). *conditionally accepted at the Journal of
+   Development Economics*
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
 *[\[pdf\]](assets/Abdellaoui et al 2023 time for tea.pdf)* *[\[code and data\]](https://osf.io/ya7ke/?view_only=55332e1fbee04cbf93b29aee2b4cead8)*&nbsp;
 <br>
