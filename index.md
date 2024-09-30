@@ -21,13 +21,13 @@ Please click [*here for my CV*](assets/Panin_CV_Feb23.pdf).
 
 1. When When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda (2024). accepted at *Economic Development and Cultural Change*
 ###### (with D. Burbidge and N. Cheeseman)&nbsp;
-*[\[code and data\]](https://osf.io/4e3jp/)*&nbsp;
+###### *[\[code and data\]](https://osf.io/4e3jp/)*&nbsp;
 <br>
 
 1. Time for Tea Now. Discounting for Money and Consumption without the
    Utility Confound (2024). *The Journal of Development Economics*
 ###### (with M. Abdellaoui, E. Kemel, F.Vieider)&nbsp;
-*[\[pdf\]](assets/Abdellaoui et al 2023 time for tea.pdf)* *[\[code and data\]](https://osf.io/ya7ke/?view_only=55332e1fbee04cbf93b29aee2b4cead8)*&nbsp;
+###### *[\[pdf\]](assets/Abdellaoui et al 2023 time for tea.pdf)* *[\[code and data\]](https://osf.io/ya7ke/?view_only=55332e1fbee04cbf93b29aee2b4cead8)*&nbsp;
 <br>
 
 1. The Globalizability of Temporal Discounting (2022).  *Nature Human Behavior*
