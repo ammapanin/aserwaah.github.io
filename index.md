@@ -73,8 +73,7 @@ in Ghana (2020). *Quarterly Journal of Economics*
 * Cognitive consequences of insecure national belonging
 ###### (with Ritwik Banerjee, Joseph Gomes, and Emmy Lindstam)
 
-* Platform competition between religious organisations. Evidence from
-  Pentecostal churches in Ghana.
+* Platform competition between religious organisations.
 ###### (with Emmanuelle Auriol, Eva Raiber and Paul Seabright)
 
 * Using religion to ensure mental health in Ghana
