@@ -67,11 +67,12 @@ h4 {
 
 h6 {
   font-size: 14px;
-  line-height: 0;
-  padding: 2px;
-  margin: 1em 0 15px;
-
+  line-height: 1;
+  padding: 0px;
+  margin: 0em 0 5px;
+    font-weight: normal;
 }
+
 
 p {
   margin: 15px 0;
@@ -85,11 +86,24 @@ a {color: $darkerGray;
   &:hover, &:active {
     color: $blue;
   }
-}
+  }
+
+ol li{
+    margin-bottom: 2em;
+
+    h6 a{
+  font-size: 14px;
+  line-height: 1;
+  padding: 0px;
+  margin: 0em 0 5px;
+  font-weight: normal;
+    }}
+
 
 ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+    margin: 0px 0;
+    margin-bottom: 2em;
+    padding-left: 30px;
 }
 
 ul {
@@ -97,11 +111,27 @@ ul {
 }
 
 ol {
-  list-style-type: decimal;
+    list-style-type: decimal;
 }
 
+
+
+ol > li:first-child ul li {
+    font-weight: normal;
+    margin-bottom: 2em;
+}
+
+
 ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
+    margin: 0;
+    margin-bottom: 1em;
+}
+
+ol li a {
+    margin-bottom: 10em; /* Reduce space between items */
+    font-weight: 500;
+  
+
 }
 
 ul ul, ol ul {
