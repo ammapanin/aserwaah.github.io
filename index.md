@@ -7,8 +7,8 @@ style="margin: 0px 20px">
 
 I&nbsp;am&nbsp;an&nbsp;assistant professor of economics at the University of
 Louvain and I study how risk and uncertainty shape economic decision
-making. I have a particular interest in understanding how contemporary
-religious institutions evolve to provide substitutes to insurance and
+making. I am particularly interested in how contemporary
+religious institutions provide substitutes to insurance and
 other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
@@ -18,7 +18,7 @@ Please click [*here for my CV*](assets/Panin_CV_Jul25.pdf).
 <br>
 # Publications
 
-1. [When When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda.](https://doi.org/10.1086/733805) *Economic Development and Cultural Change (2025)*
+1. [When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda.](https://doi.org/10.1086/733805) *Economic Development and Cultural Change (2025)*
 ###### (with D. Burbidge and N. Cheeseman)
 ###### *[\[code and data\]](https://osf.io/4e3jp/)*
 
