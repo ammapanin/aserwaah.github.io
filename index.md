@@ -14,33 +14,35 @@ experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
 Please click [*here for my CV*](assets/Panin_CV_Jul25.pdf).
+
+<br>
 # Publications
 
-1. [When When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda (2025).](https://doi.org/10.1086/733805) <span style="font-weight: normal;">*Economic Development and Cultural Change*</span>
+1. [When When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda.](https://doi.org/10.1086/733805) *Economic Development and Cultural Change (2025)*
 ###### (with D. Burbidge and N. Cheeseman)
 ###### *[\[code and data\]](https://osf.io/4e3jp/)*
 
-1. [Time for Tea. Measuring Discounting for Money and Consumption Without the Utility Confound (2024).](https://doi.org/10.1016/j.jdeveco.2024.103261) *The Journal of Development Economics*
+1. [Time for Tea. Measuring Discounting for Money and Consumption Without the Utility Confound.](https://doi.org/10.1016/j.jdeveco.2024.103261) *The Journal of Development Economics (2024)*
    ###### (with M. Abdellaoui, E. Kemel, F. Vieider)
    ###### *[\[code and data\]](https://osf.io/ya7ke/?view_only=55332e1fbee04cbf93b29aee2b4cead8)*
 
-1. [The Globalizability of Temporal Discounting (2022).](https://www.nature.com/articles/s41562-022-01392-w)  *Nature Human Behavior*
+1. [The Globalizability of Temporal Discounting.](https://www.nature.com/articles/s41562-022-01392-w)  *Nature Human Behavior (2022)*
 ###### (second author in large collaboration with K. Ruggeri,..., and E. Garcia-Garzon)
 ###### *[\[code and data\]](https://osf.io/njd62)*
 
 
 1. [Field Experiments in the Global South: Assessing Risks, Localizing
-Benefits, and Addressing Positionality (2021).](https://doi.org/10.1017/S1049096522000063 ) *PS: Political Science
-and Politics*
+Benefits, and Addressing Positionality.](https://doi.org/10.1017/S1049096522000063 ) *PS: Political Science
+and Politics (2021)*
 ###### (with E. Hermanⓡ, E. Wellman, G. Blair, L. Pruett, K. Opalo, H. Alarian, A. Grossman, Y. Tan, A. Dyzenhaus, and N. Owsley.)
 
 1. [God insures those who pay: formal insurance and religious offering
-in Ghana (2020).](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics*
+in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics (2020)*
 ###### (with E. Auriol, J. Lassebie, E. Raiber and P. Seabright)
 ###### *[\[code and data\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KVFRFO)*
 
 1. [Measuring Time and Risk Preferences in an Integrated
-   Framework (2019).](https://doi.org/10.1016/j.geb.2019.03.001) *Games and Economic Behaviour*
+   Framework.](https://doi.org/10.1016/j.geb.2019.03.001) *Games and Economic Behaviour (2019)*
 ###### (with M. Abdellaoui, E. Kemel, F. Vieider)
 ###### *[\[code and data\]](https://osf.io/9hfcg/)*
 
@@ -50,17 +52,13 @@ in Ghana (2020).](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Eco
 1. [Religion and Economic Development: Past, Present and Future (2025)](https://cepr.org/publications/dp20027)
 ###### (with S. Becker, S. Pfaff and J. Rubin)
 
-1. Take your time or take your chance: Time discounting as a distorted
-   probability (2018).
-###### (with M. Abdellaoui, E. Kemel and  F. Vieider)
-
 
 # Other writing
 1. [Four reasons why analysis of economic policy and religion go
-   hand-in-hand in sub-Saharan Africa.](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/) *PEGNet Policy Brief, 2021.*
+   hand-in-hand in sub-Saharan Africa.](https://www.pegnet.ifw-kiel.de/news/2021/four-reasons-why-analysis-of-economic-policy-and-religion-go-hand-in-hand-in-sub-saharan-africa/) *PEGNet Policy Brief (2021)*
 
 
-1. [Economics Experiments in Africa: How Many and by Whom?](https://journals.codesria.org/index.php/codesriabulletin/article/view/140)*CODESRIA Bulletin No. 1, 2020*
+1. [Economics Experiments in Africa: How Many and by Whom?](https://journals.codesria.org/index.php/codesriabulletin/article/view/140) *CODESRIA Bulletin No. 1 (2020)*
 
 
 # Work in progress

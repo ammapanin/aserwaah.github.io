@@ -88,17 +88,22 @@ a {color: $darkerGray;
   }
   }
 
+// List items are my publications.
+// For each list item, I have the title which should link to a paper;
+//  the journal; co-author information; and additional code, data etc.
+//  For now, I format the additional stuff as h6
+
 ol li{
+    font-weight: 200;
     margin-bottom: 2em;
 
-    h6 a{
-  font-size: 14px;
-  line-height: 1;
-  padding: 0px;
-  margin: 0em 0 5px;
-  font-weight: normal;
-    }}
-
+    a{font-weight: 500;
+      h6 {
+	  font-size: 14px;
+	  line-height: 1;
+	  padding: 0px;
+	  margin: 0em 0 5px;
+      }}}
 
 ul, ol {
     margin: 0px 0;
@@ -116,23 +121,12 @@ ol {
 
 
 
-ol > li:first-child ul li {
-    font-weight: normal;
-    margin-bottom: 2em;
-}
-
-
 ol ul, ul ol, ul ul, ol ol {
     margin: 0;
     margin-bottom: 1em;
 }
 
-ol li a {
-    margin-bottom: 10em; /* Reduce space between items */
-    font-weight: 500;
-  
 
-}
 
 ul ul, ol ul {
   list-style-type: circle;
