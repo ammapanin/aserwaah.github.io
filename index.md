@@ -13,7 +13,11 @@ other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
 
-Please click [*here for my CV*](assets/Panin_CV_Jul25.pdf).
+Please click [*here for my CV*](assets/Panin_CV_Jul25.pdf). <br>
+
+
+The Working Group in African Political Economy is delighted to accept applications for the 2026 meeting. Please click [*here for more details*](assets/2026_WGAPE_call.pdf).
+
 
 <br>
 # Publications
