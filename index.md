@@ -53,6 +53,9 @@ in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics 
 
 # Working papers
 
+1. [Faith-Based Platforms (2026)](assets/Auriol_et_al_2026_faith_based platforms.pdf)
+###### (with E. Auriol, E. Raiber and P. Seabright)
+
 1. [Religion and Economic Development: Past, Present and Future (2025)](https://cepr.org/publications/dp20027)
 ###### (with S. Becker, S. Pfaff and J. Rubin)
 
@@ -69,8 +72,5 @@ in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics 
 
 1. Cognitive consequences of insecure national belonging
 ###### (with R. Banerjee, J. Gomes, and E. Lindstam)
-
-1. Faith-Based Platforms 
-###### (with E. Auriol, E. Raiber and P. Seabright)
 
 1. Using religion to ensure mental health in Ghana
