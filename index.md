@@ -57,6 +57,8 @@ in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics 
 1. [Faith-Based Platforms (2026)](assets/Auriol_et_al_2026_faith_based platforms.pdf)
 ###### (with E. Auriol, E. Raiber and P. Seabright)
 
+1. Symbolic Policies Cause Economic Harm (working paper available on request)
+###### (with R. Banerjee, J. Gomes, and E. Lindstam)
 
 
 
@@ -70,7 +72,11 @@ in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics 
 
 # Work in progress
 
-1. Cognitive consequences of insecure national belonging
-###### (with R. Banerjee, J. Gomes, and E. Lindstam)
 
-1. Using religion to ensure mental health in Ghana
+1. Using religion to ensure mental health
+
+1. Pray together, Prosper Together? Experimental Evidence on Church Networks in Ghana
+###### (with A. Amoah, P. Jain and C. Kok)
+
+1. Folklore and Gender Norms 
+###### (with J. Gomes, C. Kok and K. Moukaddem) 
