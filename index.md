@@ -73,7 +73,7 @@ in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics 
 # Work in progress
 
 
-1. Using religion to ensure mental health
+1. Using Religion to Insure Mental Health
 
 1. Pray together, Prosper Together? Experimental Evidence on Church Networks in Ghana
 ###### (with A. Amoah, P. Jain and C. Kok)
