@@ -6,7 +6,7 @@ layout: page
 style="margin: 0px 20px">
 
 I&nbsp;am&nbsp;an&nbsp;assistant professor of economics at the University of
-Louvain and I study how risk and uncertainty, and the psychological burdens they ential, shape economic decision making. I am particularly interested in how contemporary
+Louvain and I study how risk and uncertainty—and the psychological burdens they entail—shape economic decision making. I am particularly interested in how contemporary
 religious institutions provide substitutes to insurance and
 other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
