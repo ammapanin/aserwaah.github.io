@@ -20,7 +20,7 @@ Please click [*here for my CV*](assets/Panin_CV_Jan26.pdf). <br>
 <br>
 # Publications
 
-1. [Religion and Economic Development: Past, Present and Future (2026)](https://cepr.org/publications/dp20027) *Handbook of Culture and Economic Behavior*
+1. [Religion and Economic Development: Past, Present and Future](https://cepr.org/publications/dp20027) *Handbook of Culture and Economic Behavior (2026)*
 ###### (with S. Becker, S. Pfaff and J. Rubin)
 
 1. [When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda.](https://doi.org/10.1086/733805) *Economic Development and Cultural Change (2025)*
