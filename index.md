@@ -6,18 +6,22 @@ layout: page
 style="margin: 0px 20px">
 
 I&nbsp;am&nbsp;an&nbsp;assistant professor of economics at the University of
-Louvain and I study how risk and uncertainty shape economic decision
-making. I am particularly interested in how contemporary
+Louvain and I study how risk and uncertainty, and the psychological burdens they ential, shape economic decision making. I am particularly interested in how contemporary
 religious institutions provide substitutes to insurance and
 other services that might otherwise be provided by formal markets. I have
 experience running a variety of lab, field, and
 lab-type field experiments in what some coauthors insist on calling “exotic places”.
+
+My recent ERC Starting Grant (2026 to 2031) *"Invisible Hands of Gods: How Religion Improves Economic Decision-Making and Outcomes"* pulls these interests together.
 
 Please click [*here for my CV*](assets/Panin_CV_Jan26.pdf). <br>
 
 
 <br>
 # Publications
+
+1. [Religion and Economic Development: Past, Present and Future (2026)](https://cepr.org/publications/dp20027) *Handbook of Culture and Economic Behavior*
+###### (with S. Becker, S. Pfaff and J. Rubin)
 
 1. [When Money Can’t Buy Political Love: Lab Experiments on Vote Buying in Ghana and Uganda.](https://doi.org/10.1086/733805) *Economic Development and Cultural Change (2025)*
 ###### (with D. Burbidge and N. Cheeseman)
@@ -53,8 +57,7 @@ in Ghana.](https://doi.org/10.1093/qje/qjaa015) *Quarterly Journal of Economics 
 1. [Faith-Based Platforms (2026)](assets/Auriol_et_al_2026_faith_based platforms.pdf)
 ###### (with E. Auriol, E. Raiber and P. Seabright)
 
-1. [Religion and Economic Development: Past, Present and Future (2025)](https://cepr.org/publications/dp20027)
-###### (with S. Becker, S. Pfaff and J. Rubin)
+
 
 
 # Other writing
